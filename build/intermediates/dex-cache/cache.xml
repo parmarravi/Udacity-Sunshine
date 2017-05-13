@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/bb7e9362ecd574eb4a2042f13804aa4df273a8d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_ba2a84852732ec0b6c4619ce78e1ca229571a754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/c5a5f97cd0dc6a338d1af492c7021ba862007261/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_9c3bafc2a22f87989612617ae6e395f14f99adda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/2a84a775804bcd8e534ef6edb45d19fc6fd6b711/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_edae8d13ae96123222a43dd7488a20acdf0e4c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/fd57d2cfeae8795bd4a86736a5549729ae0b869b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_be3965447bdadb146a2f82e6208a8136131296e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/671185b0d09abb41d4a3563c42334e52f41e949e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_b8737f4b9d8aa6ea30a99d6de699f653f81d4dd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_a5bd98205703e5a8f5fef4c895f1d55575712550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/d70b17234ad5bbe6c460abd9a4e436172b42a3e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_7535fc25a2cfca1eb3798e61ab81f63c92c58da0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/89be43cde9a8a6dc0ae635f1ab95ed53ac8a9495/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_e802d607feaabba5038162a611b6fa18dcca69a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/7c0ec03c1838c06a0a43032684f577679d780fdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_6dd076ece1dda5dd62c6448484ef1eb378c40ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f11f17f65d7ebaeb81d9ca83a126739d4d287d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/76c4fb98774a9c0709d0c06c49f2ff69d0e1da4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_a68104637518c92813c749623f7a020a30e17a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raviprmr21/.android/build-cache/908d44e467811ef0dc0e231636a8fcea28710021/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/raviprmr21/Android/Examples/tutorial/SunshineRv/app/build/intermediates/pre-dexed/debug/classes_11e723c9835a629936c1f0f84fdbf87cf0c1262c.jar" />
+    </item>
+
+</items>
